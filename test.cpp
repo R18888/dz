@@ -1,0 +1,4 @@
+# include <iostream>
+
+ina main(){}
+
