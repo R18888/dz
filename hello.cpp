@@ -1,10 +1,8 @@
-#include <iostream>
+ cout << "Hello, World!";
+    cout << "Hello, World!\n";
+    int n;
+    cout << "n="; cin >> n;
+    cout << f(n) << "\n";
+    return 0;
+    }
 
-using namespace std;
-
-int main()
-{
-	cout << "Hello World!";
-
-	return 0;
-}
